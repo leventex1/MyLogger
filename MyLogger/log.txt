@@ -1,0 +1,16 @@
+Hello World!
+[INFO] {27/12/2023 22:04:49}: The value is 1
+[WARNING] {27/12/2023 22:04:49}: The value cannot be 0
+[ERROR] {27/12/2023 22:04:49}: value -1 will exit the program !ERROR!
+Hello World!
+[INFO] {27/12/2023 22:15:31}: The value is 1
+[WARNING] {27/12/2023 22:15:31}: The value cannot be 0
+[ERROR] {27/12/2023 22:15:31}: value -1 will exit the program !ERROR!
+Hello World!
+[INFO] {28/12/2023 13:53:42}: The value is 1
+[WARNING] {28/12/2023 13:53:42}: The value cannot be 0
+[ERROR] {28/12/2023 13:53:42}: value -1 will exit the program !ERROR!
+28/12/2023 13:54:30 Hello World!
+[INFO] {28/12/2023 13:54:30}: The value is 1
+[WARNING] {28/12/2023 13:54:30}: The value cannot be 0
+[ERROR] {28/12/2023 13:54:30}: value -1 will exit the program !ERROR!
